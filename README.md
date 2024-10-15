@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a candidate search application that calls the GitHub API to retrieve and display information about potential candidates. The application allows an employer to search, view, and save candidate profiles. It has been developed using TypeScript for the front end, with an existing API to fetch candidate data from GitHub. The application is deployed on Render.
+This is a candidate search application that calls the GitHub API to retrieve and display information about potential candidates. The application allows an employer to search, view, and save candidate profiles. It has been developed using TypeScript for the front end, with an existing API to fetch candidate data from GitHub.
 
 The GitHub API is used to fetch candidate details such as name, username, location, avatar, email, GitHub profile URL, and company. Employers can save or skip candidates and view a list of saved candidates on another page.
 
