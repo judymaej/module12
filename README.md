@@ -48,8 +48,12 @@ To run the application locally, ensure you have the following installed:
 
 
 cd candidate-search-app
+
+```
+
 Install the dependencies:
 
+```
 npm install
 
 ```
@@ -80,9 +84,11 @@ Create a Render account and link your GitHub repository.
 Set up the environment variables in the Render dashboard (including GITHUB_TOKEN).
 Deploy the application.
 
-## **Peer Support**
+## **Support**
 
 In this project, I utilized peer support in the Candidate.tsx file. Collaborating with peers helped improve the functionality and user experience of the candidate search feature.
+
+Additionally I used learning assistant generating code for files in the pages section of the application.
 
 ## **Technologies Used**
 
